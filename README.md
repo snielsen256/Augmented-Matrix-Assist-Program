@@ -10,6 +10,8 @@ Digitizes the process of solving an augmented matrix. Created because I got tire
 * Get the undo functionality working
 * fix display of -0 instead of 0
 * Implement dynamic spacing in display()
+* Add "save inputs" option, or display inputs on error
+* Add the ability to handle variable "h" instead of a number
 
 ## Authors
 * Stephen Nielsen
