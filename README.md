@@ -9,3 +9,6 @@ Digitizes the process of solving an augmented matrix. Created because I got tire
 ## To Do
 * Get the undo functionality working
 * fix display of -0 instead of 0
+
+## Authors
+* Stephen Nielsen
